@@ -15,6 +15,11 @@ pushover_config = {'user_key': '',
 
 ```
 
+## Install Crontab
+The easiest way to update your DNS continuously is to install a cronjob. You can add th following line to your crontabs and that's it.
+
+    */5 * * * * /path/to/repo/BlackDNS-Updater/black_dns_updater.py >/dev/null 2>&1
+
 ## License
 This program is distributed under the terms of the GNU GPL v3. See the [LICENSE][license] file for more details.
 
