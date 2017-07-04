@@ -19,4 +19,4 @@ pushover_config = {'user_key': '',
 This program is distributed under the terms of the GNU GPL v3. See the [LICENSE][license] file for more details.
 
 [license]: https://raw.githubusercontent.com/cs-networks/Sublime-Settings/master/LICENSE
-[config.py]: https://raw.githubusercontent.com/cs-networks/Sublime-Settings/master/LICENSE
+[config.py]: https://raw.githubusercontent.com/cs-networks/BlackDNS-Updater/master/config.py
